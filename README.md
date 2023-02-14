@@ -1,6 +1,6 @@
 # 👋, I'm Oles - aka 86ʞʎɥɔlo
 
-## I am a `Human` 🤖
+## I am a `Builder` 🚀
 - ✏️ **Design**
 - 🐧 **Linux**
 - ⚡️ **Web**
